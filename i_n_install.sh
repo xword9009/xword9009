@@ -5,15 +5,7 @@ MYSQL_ROOT_PASSWORD='a password'
 MY_SITE='url of your site'
 MY_EMAIL='email address for lets encrypt'
 MY_WEB_ROOT='where is invoice-ninja'
-echo "Set hostname?"
-while true; do
-    read -p "Continue?" yn
-    case $yn in
-        [Yy]* ) sudo hostnamectl set-hostname "$MY_SITE";;
-        [Nn]* ) exit;;
-        * ) echo "Please answer yes or no.";;
-    esac
-done
+## work out hostname settings
 ## Last edit 
 ## For Debian 11 Bullseye
 echo "Welcome to Blue-Canoe's flying circus"
