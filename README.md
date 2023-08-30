@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @xword9009 and I'm new to github. A friend switched me onto Github, his suggestions about storing installation repos really got my attention.
-- 👀 Pretty much anything to do with self or VM hosting and how Github relates to provisioning.
-- 🌱 I’m currently (re)learning Proxmox, Virtualizor, CentOS, Debian, Ubuntu, Apache, NGINX, Reverse Proxy, Invoice Ninja, Postfix, Modoboa, iRedMail, Mail gateway, Dovecot, SpamAssassin, Postgrey, amavis, clam...
-- 💞️ I’m looking to collaborate on... ask me, it changes often.
-- 📫 sprite.arkangel@gmail.com 
+- 👀 Pretty much anything to do with Linux self-hosting or VM provisioning of Linux based servers.
+- 🌱 My current projects revolve around email, email marketing and spam control (mautic, mailtrain2, listmonk, postfixadmin, modoboa, iredmail, roundcube, opendkim, opendmarc, greylisting, clamav, amavisd-new, spamassassin, automx, fail2ban, imapsync) and general business/admin systems (invoiceninja, parse-dmarc, bind9, lamp, lemp, baïkal).
+- 💞️ I’m looking to collaborate on... ask me, it changes often, but usually has something to do with installing, running or fixing the above.
+- 📫 xword9000@duck.com 
 
 <!---
 xword9009/xword9009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
